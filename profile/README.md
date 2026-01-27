@@ -11,6 +11,8 @@ Reduzir o atrito entre dados brutos e decisões estratégicas
 Garantir confiabilidade, rastreabilidade e escalabilidade
 Facilitar o consumo de dados por aplicações, serviços e pessoas
 
+> "Simplificar a criação de regras de negócio, permitindo que o time de negócios possam escrever as próprias regras, gerenciar versões e testar fluxos de forma autônoma."
+
 ## Em Essência
 
 Dados certos, no momento certo, para decisões melhores.
