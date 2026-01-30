@@ -1,8 +1,8 @@
 ## Sobre
 
-Fluwill é um projeto DaaS (Data as a Service) focado em transformar dados em insumos confiáveis para tomada de decisão.
+FooBar é um projeto DaaS (Data as a Service) focado em transformar dados em insumos confiáveis para tomada de decisão.
 A plataforma foi pensada para centralizar, processar e disponibilizar dados de forma estruturada, permitindo que times técnicos e de negócio tomem decisões com mais velocidade, clareza e confiança.
-O Fluwill atua como um pipeline de dados orientado à decisão, conectando fontes diversas, aplicando regras, transformações e camadas de análise que reduzem complexidade e aumentam a qualidade da informação consumida.
+O FooBar atua como um pipeline de dados orientado à decisão, conectando fontes diversas, aplicando regras, transformações e camadas de análise que reduzem complexidade e aumentam a qualidade da informação consumida.
 
 ## Objetivos do Projeto
 
